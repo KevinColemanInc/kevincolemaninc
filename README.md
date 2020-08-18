@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kcoleman.me/projects](https://kcoleman.me/projects)
 
-- 📝 I regulary write articles on [https://kcoleman.me](https://kcoleman.me)
+- 📝 I regularly write articles on [https://kcoleman.me](https://kcoleman.me)
 
 - 💬 Ask me about **ruby on rails, ruby,**
 
