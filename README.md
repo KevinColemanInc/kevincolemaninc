@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevincolemaninc" alt="kevincolemaninc" /> </p>
 
-- 🔭 I’m currently working on [kcoleman.me](kcoleman.me)
+- 🔭 I’m currently working on [kcoleman.me](https://www.kcoleman.me/)
 
 - 👯 I’m looking to collaborate on **Real Estate Investing**
 
